@@ -73,7 +73,7 @@
         "train_period_days": 15,
         "backtest_period_days": 7,
         "live_retrain_hours": 0,
-        "identifier": "uniqe-id",
+        "identifier": "dummy-nn",
         "feature_parameters": {
             "label_period_candles": 4,
         },
